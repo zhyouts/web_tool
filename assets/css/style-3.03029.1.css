@@ -16,7 +16,7 @@ p{color:#1d232b;margin:0;white-space:normal;word-break:break-all}
 /*--------------------------------------------------------------
 ## Basics style
 --------------------------------------------------------------*/
-.page-container{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-direction:row;-webkit-box-orient:horizontal;-webkit-box-direction:normal;flex-direction:row}
+.page-container{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-direction:row;-webkit-box-orient:horizontal;-webkit-box-direction:normal;flex-direction:rowbackground-image: "./images/webstack_banner_cn.png";}
 .page-container>.flex-fill{min-width:0}
 .main-content{-ms-flex-direction:column;flex-direction:column;display:-ms-flexbox;display:flex}
 .content-site{padding:0 15px;width:100%;margin-right:auto;margin-left:auto}
